@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int ifStatement() {
 
     // If statement
 
@@ -18,7 +18,6 @@ int main() {
         cout << userInput << " is not nice." << endl; // if no, output this
     }
 
-
-
+    return 0;
 
 }
