@@ -13,4 +13,5 @@ add_executable(epfl_ba1_mt_icc welcome.cpp
         module-1/as1_1-hello-world.cpp
         module-1/as1_2-swapping-values.cpp
         module-2/1-if-statement.cpp
+        module-2/2-logical-operators.cpp
 )
