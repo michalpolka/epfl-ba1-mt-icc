@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int ifStatement() {
+int logicalOperators() {
 
     // If statement
 
