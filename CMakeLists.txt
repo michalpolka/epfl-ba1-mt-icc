@@ -14,4 +14,8 @@ add_executable(epfl_ba1_mt_icc welcome.cpp
         module-1/as1_2-swapping-values.cpp
         module-2/1-if-statement.cpp
         module-2/2-logical-operators.cpp
+        module-2/3-boolean.cpp
+        module-2/ex4-conditional-expressions.cpp
+        module-2/ex5-conditional-expressions.cpp
+        module-2/ex6-arithmetic-expressions.cpp
 )
