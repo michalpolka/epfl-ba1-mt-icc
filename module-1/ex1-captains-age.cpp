@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int captainsAge() {
+int ex1() {
 
     constexpr int currentYear {2025};
     int age {};

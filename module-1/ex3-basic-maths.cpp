@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int basicMaths() {
+int ex3() {
 
     int x{}, y{}; // change these around to make them int or double
     double a{}, b{}, c{}, d{};

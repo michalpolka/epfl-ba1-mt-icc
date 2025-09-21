@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int fondue() {
+int ex2() {
 
     constexpr int base {4};
     constexpr double cheese {800.0};
