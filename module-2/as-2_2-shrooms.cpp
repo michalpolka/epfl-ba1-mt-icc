@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int as2_2() {
 
     // Initialise bools to store answers
     bool anneau {false};
