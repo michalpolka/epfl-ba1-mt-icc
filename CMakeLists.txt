@@ -18,4 +18,6 @@ add_executable(epfl_ba1_mt_icc welcome.cpp
         module-2/ex4-conditional-expressions.cpp
         module-2/ex5-conditional-expressions.cpp
         module-2/ex6-arithmetic-expressions.cpp
+        module-2/as-2_1-bike-rental.cpp
+        module-2/as-2_2-shrooms.cpp
 )
