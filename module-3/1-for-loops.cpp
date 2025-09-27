@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int forLoops() {
 
     // Initialise variables
     int x{0};
