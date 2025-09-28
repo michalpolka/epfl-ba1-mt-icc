@@ -26,4 +26,6 @@ add_executable(epfl_ba1_mt_icc welcome.cpp
         module-3/ex8-ball-bounce.cpp
         module-3/ex9-ball-bouncier.cpp
         module-3/ex10-prime-numbers.cpp
+        module-3/as-3_1-number-game.cpp
+        "module-3/as-3_2-predators-and-prey-(uwu).cpp"
 )
