@@ -23,4 +23,7 @@ add_executable(epfl_ba1_mt_icc welcome.cpp
         module-3/1-for-loops.cpp
         module-3/2-while-loops.cpp
         module-3/ex7-multiplication-tables.cpp
+        module-3/ex8-ball-bounce.cpp
+        module-3/ex9-ball-bouncier.cpp
+        module-3/ex10-prime-numbers.cpp
 )
