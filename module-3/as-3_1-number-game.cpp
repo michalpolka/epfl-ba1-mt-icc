@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int as3_1()
 {
     int debut(0);
     do {
@@ -18,6 +18,33 @@ int main()
     /*******************************************
      * Completez le programme a partir d'ici.
      *******************************************/
+
+    for (int i{debut}; i<=fin; ++i) {
+
+        int j {i};
+        int n {0};
+
+        while (j>0) {
+
+            ++n;
+
+            if (j%3 == 0) {
+                j+=4;
+            }
+
+            else if (j%4 == 0) {
+                j/=2;
+            }
+
+            else {
+                j-=1;
+            }
+
+        }
+
+        cout << i << " -> " << n << endl;
+
+    }
 
 
     /*******************************************
