@@ -3,7 +3,7 @@
 #include <string>
 using namespace std;
 
-int main() {
+int ex10() {
 
     // Output message
     const string msg {" is not a prime number. It is divisible by "};
