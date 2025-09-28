@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int blocks() {
 
     // This will be usable everywhere in the main() function:
     int i {0};
