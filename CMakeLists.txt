@@ -22,5 +22,5 @@ add_executable(epfl_ba1_mt_icc welcome.cpp
         module-2/as-2_2-shrooms.cpp
         module-3/1-for-loops.cpp
         module-3/2-while-loops.cpp
-        module-3/3-blocks.cpp
+        module-3/ex7-multiplication-tables.cpp
 )
