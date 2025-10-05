@@ -10,7 +10,7 @@ int returnsSomething(int a);
 int returnsSomething(int a, int b);
 
 
-int main() {
+int functions() {
 
     // Basic calling of the function
     int userInt {getUserInt(3)};
