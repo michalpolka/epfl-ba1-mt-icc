@@ -29,4 +29,8 @@ add_executable(epfl_ba1_mt_icc welcome.cpp
         module-3/as-3_1-number-game.cpp
         "module-3/as-3_2-predators-and-prey-(uwu).cpp"
         module-4/1-functions.cpp
+        module-4/as-4_1-read-and-say.cpp
+        module-4/as-4_2-easter-date.cpp
+        module-4/as-4_3-mastermind.cpp
+        module-5/tables.cpp
 )
