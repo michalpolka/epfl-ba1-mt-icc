@@ -51,7 +51,7 @@ void printVector(const int identifier, const vector<double>& v) {
     cout << "}" << endl;
 }
 
-int main() {
+int ex16() {
 
     int vectorSize {0};
 
