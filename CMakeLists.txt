@@ -34,4 +34,5 @@ add_executable(epfl_ba1_mt_icc welcome.cpp
         module-4/as-4_3-mastermind.cpp
         module-5/tables.cpp
         module-5/ex16-scalar-product.cpp
+        module-5/ex17-matrix-multiplication.cpp
 )
