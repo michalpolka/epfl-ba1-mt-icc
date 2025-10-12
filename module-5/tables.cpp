@@ -83,11 +83,11 @@ int tables() {
 
     // With arrays, when initialising to values with a 2D table:
 
-    array<array<int, threeDimensions>, threeDimensions> anotherArray {{
+    array<array<int, threeDimensions>, threeDimensions> anotherArray = {
         4, 3, 4,
         2, 3, 4,
         7, 4, 3
-    }};
+    };
 
     // Arrays also have .size() method
 
