@@ -89,6 +89,8 @@ int tables() {
         7, 4, 3
     };
 
+    // We should use {} initialisation with the array too (probably) but i wanna get used to the teachers way just in case
+
     // Arrays also have .size() method
 
 
