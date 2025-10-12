@@ -5,20 +5,17 @@ using namespace std;
 
 int tables() {
 
-    // Let's initialise a dynamic table with 2 elements:
-    vector<int> dynTable {{1,8}};
+    // Let's initialise a dynamic table with 2 elements 1 and 8:
+    vector<int> dynTable {1,8};
 
     // Which is different from a dynamic table with 2 slots for elements:
-    vector<int> dynTable2 {2};
+    vector<int> dynTable2 (2);
 
     // Which is different from a dynamic table with 3 identical elements of value 5:
-    vector<int> dynTable3 {3,5};
+    vector<int> dynTable3 (3,5);
 
     // You can initialise a table to another table:
     vector<int> dynTable4 {dynTable};
-
-    // Which is different from a STATIC table with 2 slots for elements:
-    // vector<int, 2> statTable {{2,1}};
 
 
     // Let's get an element from a table:
