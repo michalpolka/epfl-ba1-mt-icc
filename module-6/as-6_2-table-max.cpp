@@ -44,7 +44,7 @@ vector<vector<int>> tranches_max(const vector<vector<int>>& input) {
 }
 
 
-int main() {
+int as6_2() {
 
     const vector<vector<int>> m
         {
