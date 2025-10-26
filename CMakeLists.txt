@@ -35,4 +35,7 @@ add_executable(epfl_ba1_mt_icc welcome.cpp
         module-5/tables.cpp
         module-5/ex16-scalar-product.cpp
         module-5/ex17-matrix-multiplication.cpp
+        module-6/as-6_1-cesar-code.cpp
+        module-6/as-6_2-table-max.cpp
+        module-6/as-6_3-fence.cpp
 )
